@@ -8,3 +8,12 @@ h1{
   text-shadow: gold;
   background-color: grey;
 }
+#crime{
+float:right;
+}
+#movies{
+  float:right;
+}
+#license{
+  text-align:center;
+}
